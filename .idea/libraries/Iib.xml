@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Iib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/Iib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/Iib/jboss-servlet-api-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/Iib/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/Iib/fastjson-1.1.37.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/Iib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/Iib/mysql-connector-java-5.1.49-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

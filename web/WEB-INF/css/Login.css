@@ -1,0 +1,70 @@
+.bodyCss{
+    background-image: url("/img/gdwl_bgc.png");
+    background-repeat: no-repeat;/*不重复*/
+    background-position: center center;/*居中*/
+    background-size: cover;/*充满整个区域*/
+}
+.loginDiv{
+    display: flex;
+    justify-content: center;/*水平居中*/
+    position: absolute;
+    height: 400px;
+    margin: auto;
+    top: 0px;
+    bottom:0px;
+    left: 0px;
+    right: 0px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    width: 450px;
+    color: #ffffff;
+}
+.h1Css{
+    text-align: center;
+}
+/*设置文字标签和文本框的样式*/
+.text-label{
+    font-size: 26px;
+    color: white;
+}
+/*给用户名的文本框添加样式*/
+.text-input{
+    width: 300px;
+    height: 50px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+}
+/*给密码标签添加样式*/
+.pw-stl{
+    margin-left: 26px;
+    font-size: 26px;
+    color: white;
+}
+/*给按钮添加样式*/
+.btn-div{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;/*控制表格单元格中的内容不换行*/
+}
+.button{
+    background-color: #007FFF;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 25px 2px;
+    cursor: pointer;
+}
+.a-css{
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 12px;
+    color: red;
+    cursor: pointer;
+}

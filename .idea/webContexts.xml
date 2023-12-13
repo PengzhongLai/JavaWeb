@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/JSP/login.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/JSP" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/JSP/redirect.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/JSP" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/JSP/regist.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/JSP" />
+      </map>
+    </option>
+  </component>
+</project>

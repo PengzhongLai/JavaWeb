@@ -1,0 +1,86 @@
+.bodyCss{
+    background-image: url("/img/gdwl_bgc.png");
+    background-repeat: no-repeat;/*不重复*/
+    background-position: center center;/*居中*/
+    background-size: cover;/*充满整个区域*/
+}
+.loginDiv{
+    display: flex;
+    justify-content: center;/*水平居中*/
+    position: absolute;
+    height: 556px;
+    margin: auto;
+    top: 0px;
+    bottom:0px;
+    left: 0px;
+    right: 0px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    width: 555px;
+    color: #ffffff;
+}
+/*输入框的样式*/
+.text-input{
+    width: 300px;
+    height: 40px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+}
+/*2个字的label标签样式*/
+.tw-label{
+    margin-left: 26px;
+    font-size: 26px;
+    color: white;
+}
+/*3个字的label标签样式*/
+.th-label{
+    font-size: 26px;
+    color: white;
+}
+/*4个字的label标签样式*/
+.fo-label{
+    margin-left: -27px;
+    font-size: 26px;
+    color: white;
+}
+/*radio单选钮的样式*/
+.sex-label{
+    font-size: 26px;
+    color: white;
+}
+.sex-radio{
+    margin-left: 26px;
+    font-size: 26px;
+    color: white;
+    width: 20px;
+    height: 20px;
+}
+/*注册按钮的样式*/
+.button-regist{
+    background-color: mediumspringgreen;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 25px 28px;
+    width: 150px;
+    cursor: pointer;
+}
+/*取消按钮的样式*/
+.button-cancel{
+    background-color: darkgray;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 25px 28px;
+    width: 150px;
+    cursor: pointer;
+}

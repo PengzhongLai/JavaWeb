@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="img">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/img" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
